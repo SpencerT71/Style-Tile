@@ -18,6 +18,17 @@
 
 /* Textures or Patterns*/
 
+.pattern-1 {
+    background: url(../img/concrete_seamless.png);
+}
+
+.pattern-2 {
+    background: url(../img/footer_lodyas.png);
+}
+
+.pattern-3 {
+    background: url(../img/fresh_snow.png);
+}
 
 /* Imagery */
 
