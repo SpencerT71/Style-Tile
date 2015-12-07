@@ -35,9 +35,29 @@
 
 /* Icons */
 
+/* Navigation */
+
+nav li {
+    display: inline;   
+}
+
+nav a {
+    text-decoration: none;
+}
 
 /* Typography */
 
+h2 {
+    font-family: 'EB Garamond', serif;
+}
+
+h3 {
+    font-family: 'Philosopher', sans-serif;
+}
+
+p {
+    font-family: 'Alegreya Sans', sans-serif;
+}
 
 /* Forms */
 
